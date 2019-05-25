@@ -1,0 +1,2273 @@
+{
+"layerStyles" : {
+"objects" : [
+{
+"do_objectID" : "50067D9E-CAA3-49FA-AE45-82E144037647",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 3,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 2,
+"offsetX" : 0,
+"spread" : -1,
+"blurRadius" : 1,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 1,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation \/ 1"
+},
+{
+"do_objectID" : "22F62BCB-FE73-4006-9F05-7B5249288FA7",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 5,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 3,
+"offsetX" : 0,
+"spread" : -2,
+"blurRadius" : 1,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 2,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 2,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation \/ 2"
+},
+{
+"do_objectID" : "258C5C6F-4141-4B71-8765-EC8CBE263733",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 8,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 3,
+"offsetX" : 0,
+"spread" : -2,
+"blurRadius" : 3,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 3,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 4,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation \/ 3"
+},
+{
+"do_objectID" : "77C26348-E7F3-4381-8468-D00237EBDC87",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 2,
+"offsetX" : 0,
+"spread" : -1,
+"blurRadius" : 4,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 10,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 4,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 5,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation \/ 4"
+},
+{
+"do_objectID" : "F5061DCD-9455-4D66-BB1B-45E94646A789",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 3,
+"offsetX" : 0,
+"spread" : -1,
+"blurRadius" : 5,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 18,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 6,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 10,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation \/ 5"
+},
+{
+"do_objectID" : "0BE798EB-D125-43D0-9418-6E81D91A7066",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.29019607843137257,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.88627450980392153,
+"green" : 0.56470588235294117
+},
+"gradient" : {
+"stops" : [
+{
+"color" : {
+"red" : 0.29019607843137257,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.88627450980392153,
+"green" : 0.56470588235294106
+},
+"_class" : "gradientStop",
+"position" : 0
+},
+{
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"_class" : "gradientStop",
+"position" : 1
+}
+],
+"gradientType" : 0,
+"to" : "{0.5, 1}",
+"_class" : "gradient",
+"elipseLength" : 1,
+"from" : "{0.5, 0}"
+},
+"fillType" : 1,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"patternTileScale" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Gradient \/ Brand › Black"
+},
+{
+"do_objectID" : "6D7B15E3-4274-4E92-B26E-43CDE0AC74BF",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"patternTileScale" : 1,
+"fillType" : 1,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Gradient \/ W›B"
+},
+{
+"do_objectID" : "86E1FDFC-C68A-476F-AD61-00875D3A294F",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.031372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.050980392156862737,
+"green" : 0.031372549019607843
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Fill \/ * Black"
+},
+{
+"do_objectID" : "AA5D251D-D5B2-4EF9-8DA6-1A25A855A09D",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.097724879491704178,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.96402287137681164,
+"green" : 0.75814457894345222
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Fill \/ Brand"
+},
+{
+"do_objectID" : "39E765EC-CA08-49B0-84F0-0905535EF327",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.92549019607843142,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.23529411764705879,
+"green" : 0.2156862745098039
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Fill \/ Danger"
+},
+{
+"do_objectID" : "D35580AD-A98E-4DF5-BDBE-CF5D4002611E",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.94901960784313721,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.19607843137254899,
+"green" : 0.56862745098039214
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Fill \/ Warning"
+},
+{
+"do_objectID" : "520D880D-E7E1-4341-B869-DBC8820A2E5B",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.63003511053796113,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.23352695868267281,
+"green" : 0.90466485507246375
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Fill \/ Success"
+},
+{
+"do_objectID" : "6648C8CA-1B30-484A-8A9D-56823B6050B3",
+"value" : {
+"windingRule" : 1,
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+}
+}
+],
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Border \/ * Black"
+},
+{
+"do_objectID" : "146E444F-7E37-4992-93E6-EF72C78D2F42",
+"value" : {
+"windingRule" : 1,
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0.29019607843137257,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.88627450980392153,
+"green" : 0.56470588235294117
+}
+}
+],
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Border \/ Brand"
+},
+{
+"do_objectID" : "17FD711F-03D6-4E62-8A05-7F1FF8FF59A2",
+"value" : {
+"windingRule" : 1,
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0.92549019607843142,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.23529411764705879,
+"green" : 0.2156862745098039
+}
+}
+],
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Border \/ Danger"
+},
+{
+"do_objectID" : "B131F2A3-455C-4657-B051-2A69E8A6645B",
+"value" : {
+"windingRule" : 1,
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0.99091372282608692,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.057003973498703411,
+"green" : 0.89335933904582254
+}
+}
+],
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Border \/ Warning"
+},
+{
+"do_objectID" : "6A74B9A5-056C-4C8D-B223-E10AADBE5BC5",
+"value" : {
+"windingRule" : 1,
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0.63003511053796113,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.23352695868267281,
+"green" : 0.90466485507246375
+}
+}
+],
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Border \/ Success"
+},
+{
+"do_objectID" : "66FD00E2-A206-4A2F-8373-61B74DB482B5",
+"value" : {
+"windingRule" : 1,
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 0,
+"color" : {
+"red" : 0.63003511053796113,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.23352695868267281,
+"green" : 0.90466485507246375
+}
+}
+],
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Border \/ * Transparent"
+},
+{
+"do_objectID" : "65AFE631-FCB3-4DF1-8C02-88DC39CC4864",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.63003511053796113,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.23352695868267281,
+"green" : 0.90466485507246375
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Fill \/ * Transparent"
+},
+{
+"do_objectID" : "2715C08D-EBBE-4C02-9AA2-F9CD4B1894E3",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Fill \/ * White"
+},
+{
+"do_objectID" : "DCE6918D-A65F-4C6D-A0B9-068DCCD2F79E",
+"value" : {
+"windingRule" : 1,
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+}
+}
+],
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Border \/ * White"
+},
+{
+"do_objectID" : "A58B3156-15EA-4F7A-8902-60926A06EB78",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 3,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : false
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 2,
+"offsetX" : 0,
+"spread" : -1,
+"blurRadius" : 1,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : false
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 1,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : false
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation \/ 0"
+},
+{
+"do_objectID" : "069ACECB-D4CE-445B-A4C9-AE8E3D3D10E2",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Fill \/ Dark"
+},
+{
+"do_objectID" : "16C54950-26B6-4663-A866-AD67BF415594",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.40000000000000002,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.40000000000000002,
+"green" : 0.40000000000000002
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 0,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Grey \/ Dark"
+},
+{
+"do_objectID" : "6A3199B9-8EA9-460E-B167-5AA0A68C5DAE",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.92549019607843142,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.92549019607843142,
+"green" : 0.92549019607843142
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 0,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Grey \/ Light"
+},
+{
+"do_objectID" : "541EF82D-9C34-4BF7-BAAA-9098BCF7C8B2",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 0,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "White"
+}
+],
+"_class" : "sharedStyleContainer"
+},
+"assets" : {
+"_class" : "assetCollection",
+"colorAssets" : [
+{
+"color" : {
+"red" : 0.93959465579710144,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.4737889792495566,
+"green" : 0.40867354445931092
+},
+"_class" : "MSImmutableColorAsset"
+},
+{
+"color" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"_class" : "MSImmutableColorAsset"
+},
+{
+"color" : {
+"red" : 0.92549019607843142,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.23529411764705879,
+"green" : 0.2156862745098039
+},
+"_class" : "MSImmutableColorAsset"
+}
+],
+"images" : [
+
+],
+"colors" : [
+{
+"red" : 0.93959465579710144,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.4737889792495566,
+"green" : 0.40867354445931092
+},
+{
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+{
+"red" : 0.92549019607843142,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.23529411764705879,
+"green" : 0.2156862745098039
+}
+],
+"gradientAssets" : [
+
+],
+"imageCollection" : {
+"images" : {
+
+},
+"_class" : "imageCollection"
+},
+"gradients" : [
+
+]
+},
+"pages" : [
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/E1A7E6C7-B602-4235-BA62-1A1D659AFD89"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/B5E6728F-71B5-4CC3-8976-916FCAFA46DC"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/9BEB8DCF-C11D-497A-849C-628114457950"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/7F9DC3C0-EF8E-4169-BE17-E5057EFF465F"
+}
+],
+"foreignSymbols" : [
+
+],
+"currentPageIndex" : 0,
+"_class" : "document",
+"foreignLayerStyles" : [
+
+],
+"colorSpace" : 0,
+"layerTextStyles" : {
+"objects" : [
+{
+"do_objectID" : "8BEC1F88-187A-4919-BCF0-9EDD36B7CDC5",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 1,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Bold",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.69999998807907104,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Button \/ ⚪️ \/ Center"
+},
+{
+"do_objectID" : "B1E1F469-347B-40AD-A9D8-6BB23B17D2DF",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 1,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Bold",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.69999998807907104,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Button \/ ⚫️ \/ Center"
+},
+{
+"do_objectID" : "D3EAFB8B-2B27-4C5F-BEEB-16AB0411529E",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 1,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Bold",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.69999998807907104,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Button \/ ⚪️ \/ Right"
+},
+{
+"do_objectID" : "3281CDDF-7349-488A-91D3-BC5EB67B3E55",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 1,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Bold",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.69999998807907104,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Button \/ ⚫️ \/ Right"
+},
+{
+"do_objectID" : "A9C6EFB6-739A-4645-A864-94AC903D359C",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 1,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Bold",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.69999998807907104,
+"MSAttributedStringColorAttribute" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Button \/ ⚪️ \/ Left"
+},
+{
+"do_objectID" : "07619D1E-9EE3-45BF-BE40-157FEAE2E086",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 1,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Bold",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 0.69999998807907104,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"textStyleVerticalAlignmentKey" : 0,
+"paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Button \/ ⚫️ \/ Left"
+},
+{
+"do_objectID" : "6C1258B2-D5B3-4368-98AE-3487D8AF5957",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-ExtraLightBETA",
+"size" : 100.6324404761905
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"ligature" : 0,
+"kerning" : -1.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Headline \/ H1"
+},
+{
+"do_objectID" : "F084CA7C-2B75-42B2-8E00-08847E246D00",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-ExtraLightBETA",
+"size" : 62.895275297619037
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"ligature" : 0,
+"kerning" : -0.5,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Headline \/ H2"
+},
+{
+"do_objectID" : "E7757A2C-2068-4207-BB91-60D46038AF3B",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Regular",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle"
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Headline \/ H3 \/ Left"
+},
+{
+"do_objectID" : "D86C9FE6-06D6-41FA-AB9C-6CFC02EEFE71",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Regular",
+"size" : 34
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"ligature" : 0,
+"kerning" : 0.24464330000000001,
+"paragraphStyle" : {
+"minimumLineHeight" : 36,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 36,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Headline \/ H4"
+},
+{
+"do_objectID" : "4943362E-4576-4400-8BBE-687F9A3F3DA5",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Medium",
+"size" : 24
+},
+"_class" : "fontDescriptor"
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Headline \/ H5"
+},
+{
+"do_objectID" : "2C12FDEE-93AE-463F-90E8-A66E9ED7021A",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Regular",
+"size" : 17
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"ligature" : 0,
+"kerning" : 0.51999998092651367,
+"paragraphStyle" : {
+"minimumLineHeight" : 28,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 28,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Body \/ Normal"
+},
+{
+"do_objectID" : "04F4EEBB-3BCC-40BC-B1DD-1FF3D608C6BC",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Regular",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"ligature" : 0,
+"kerning" : 0.24464330000000001,
+"paragraphStyle" : {
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Body \/ Small"
+},
+{
+"do_objectID" : "89EB6BC4-D724-40A4-98E9-131CC94C8062",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Regular",
+"size" : 12.26275386847195
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"ligature" : 0,
+"kerning" : 0.40000000596046448,
+"paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 16,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 16,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Caption"
+},
+{
+"do_objectID" : "F6F542B2-FD85-41C3-8C4A-E3A2BAFCEF6A",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Medium",
+"size" : 20
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"ligature" : 0,
+"kerning" : 0.2498484,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Headline \/ H6"
+},
+{
+"do_objectID" : "33FADE1B-C3DC-4CBE-92C8-B91FAF86A72A",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Medium",
+"size" : 12
+},
+"_class" : "fontDescriptor"
+},
+"kerning" : 1.9987870000000001,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"MSAttributedStringTextTransformAttribute" : 1,
+"ligature" : 0,
+"paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 16,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 16,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Overline"
+},
+{
+"do_objectID" : "B6227710-B4CC-4839-8D49-A322AEB5359D",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Medium",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"ligature" : 0,
+"kerning" : 0.14990909999999999,
+"paragraphStyle" : {
+"alignment" : 0,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Subtitle \/ Normal"
+},
+{
+"do_objectID" : "D862C9A3-03D9-4221-B727-96047B3C4E42",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"ligature" : 0,
+"kerning" : 0.099939379999999994,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Subtitle \/ Small"
+},
+{
+"do_objectID" : "FE2AE5BA-D61E-46CF-B1A7-037286968228",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Regular",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Headline \/ H3 \/ Center"
+},
+{
+"do_objectID" : "ED7FB5EB-6610-40CF-9E26-9186759F131D",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Regular",
+"size" : 48
+},
+"_class" : "fontDescriptor"
+},
+"ligature" : 0,
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 1
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Headline \/ H3 \/ Right"
+},
+{
+"do_objectID" : "A8006020-0EAD-4199-BFE8-C46BAD9E15D0",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"blur" : {
+"_class" : "blur",
+"center" : "{0.5, 0.5}",
+"radius" : 5,
+"motionAngle" : 0,
+"saturation" : 1,
+"type" : 0,
+"isEnabled" : false
+},
+"startMarkerType" : 0,
+"windingRule" : 1,
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "GrundfosTheSansV2OT-4SL",
+"size" : 15
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"kerning" : 0,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 20
+}
+}
+},
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Breadtext"
+},
+{
+"do_objectID" : "3CE121CD-9DBC-4F15-B732-217EFFF575CA",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"ligature" : 0,
+"kerning" : 0.15000000596046451,
+"paragraphStyle" : {
+"alignment" : 1,
+"minimumLineHeight" : 16,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 16,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Caption \/ Right"
+},
+{
+"do_objectID" : "03B6D2C0-EBCE-4505-8DAA-2A255178D237",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Inter-Medium",
+"size" : 14
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.20000000000000001,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.20000000000000001,
+"green" : 0.20000000000000001
+},
+"ligature" : 0,
+"kerning" : 0.099939379999999994,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"maximumLineHeight" : 24,
+"allowsDefaultTighteningForTruncation" : 0
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Subtitle \/ Small"
+}
+],
+"_class" : "sharedTextStyleContainer"
+},
+"layerSymbols" : {
+"objects" : [
+
+],
+"_class" : "symbolContainer"
+},
+"do_objectID" : "276D9C94-D8EF-4F1E-9E4B-B31097550AC1",
+"foreignTextStyles" : [
+
+],
+"userInfo" : {
+"com.invisionlabs.sync" : {
+"metadata" : "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+}
+}
+}

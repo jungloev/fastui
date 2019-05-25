@@ -1,0 +1,217 @@
+{
+"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
+"build" : 76490,
+"version" : 118,
+"fonts" : [
+"Inter-SemiBold",
+"ProximaNova-Regular",
+"Inter-Bold",
+"Inter-Medium",
+"Inter-LightBETA",
+"AktivGrotesk-Bold",
+"ProximaNova-Semibold",
+"Inter-Regular",
+"Inter-ExtraLightBETA"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 1,
+"variant" : "NONAPPSTORE",
+"created" : {
+"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
+"appVersion" : "54.1",
+"build" : 76490,
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 118,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.76490"
+],
+"appVersion" : "54.1",
+"pagesAndArtboards" : {
+"7F9DC3C0-EF8E-4169-BE17-E5057EFF465F" : {
+"name" : "Symbols",
+"artboards" : {
+"B81C21D0-D4D0-4A51-9E09-501CABF53A9B" : {
+"name" : "Button \/ Normal"
+},
+"6488AF2A-BA6F-46E0-8E80-806D8068D014" : {
+"name" : "nav \/ Collapse"
+},
+"00AD397A-659A-4893-8668-7ABC2CB6F6B1" : {
+"name" : "nav \/ back"
+},
+"FE213D6C-4055-4E58-91B9-C2A01ADC0BB2" : {
+"name" : "nav \/ Chevre"
+},
+"260C7C42-F086-4159-AAAB-B360095B324F" : {
+"name" : "Button \/ Outline"
+},
+"07612A34-6A86-454A-AADE-626594C8B1D4" : {
+"name" : "Cell \/ * \/ Label + Subtitle"
+},
+"CB9F87AC-25E9-4D70-A9A1-AF6B72EF66E3" : {
+"name" : "Cell \/ Header"
+},
+"A9CB4BBA-36D4-45A6-B065-E8A8DB4FBE52" : {
+"name" : "nav \/ Chevre"
+},
+"F79C491F-0DDB-44D4-8A8D-35971F8E84D1" : {
+"name" : "nav \/ Info"
+},
+"3F0EAC97-B3EE-456A-B4C7-F6DCF6C24585" : {
+"name" : "Button \/ * \/ ⚫️ \/ default"
+},
+"AD8AD0D1-5E72-49D2-B3D1-4A5B31E86332" : {
+"name" : "Cell \/ * \/ Divider \/ Normal Indendet"
+},
+"CA737CFC-06C5-4A38-A062-EC3485E464E5" : {
+"name" : "nav \/ Menu"
+},
+"0992DEFC-1776-4447-A329-978905601526" : {
+"name" : "Overlay \/ Drawer"
+},
+"82DF982F-0E2A-416C-8AE6-5381D5D14624" : {
+"name" : "image"
+},
+"0C93B712-1DBD-4EF1-9768-B282ADB4854C" : {
+"name" : "nav \/ Add"
+},
+"6C451DE5-3CF9-4A03-AE5C-2A3F623326BB" : {
+"name" : "Icon \/ Plus"
+},
+"C80113A2-7636-44C5-8405-9904C46D77C0" : {
+"name" : "nav \/ close"
+},
+"D2A4FFFB-40C6-460D-9DD3-4FAC09581C62" : {
+"name" : "Button \/ * \/ ⚫️ \/ icon right"
+},
+"4354B636-CC43-4B0F-A1CA-F4F3561FD1D5" : {
+"name" : "* \/ Pagination"
+},
+"3EE9EBB1-19FD-4DEB-8B9F-A5C0A137D529" : {
+"name" : "Button \/ * \/ ⚫️ \/ icon left"
+},
+"1949A36E-23DD-40F4-A0BF-7C068A016EC1" : {
+"name" : "Cell \/ * \/ Divider \/ Fill"
+},
+"55C5FA2B-7765-4E35-B341-BC8FD6878B1C" : {
+"name" : "nav \/ Help"
+},
+"6489BC25-51B4-4052-B7BD-24DAEAA3BCEA" : {
+"name" : "Button \/ * \/ ⚪️ \/ icon right"
+},
+"26C6768E-0230-4CA8-8029-F8DB1494A383" : {
+"name" : "nav \/ cancel input"
+},
+"1ED43C31-57C6-40EE-B80F-185AADA57BE7" : {
+"name" : "Button \/ * \/ ⚪️ \/ icon left"
+},
+"31AF5BD4-0E52-41A6-8E35-C54B90729C8A" : {
+"name" : "nav \/ SignOut"
+},
+"2CE7FC8B-A73E-4705-9B7D-3ABD6870C2EA" : {
+"name" : "nav \/  Remove"
+},
+"756B3C46-3A4F-4DBE-9E89-E0FE9F55235C" : {
+"name" : "Cell \/ Normal"
+},
+"275853E1-8D3B-4188-BC86-8BB452DABCB5" : {
+"name" : "* \/ Shape \/ Pill 24pt"
+},
+"3290AAE9-0022-4091-8EB9-7AD17B170852" : {
+"name" : "Button \/ * \/ ⚪️ \/ default"
+},
+"BA175A1A-3A45-4DCC-8D3A-C0ADED0D0715" : {
+"name" : "Cell \/ * \/ Label"
+},
+"4D4192C8-78F7-4B00-9AD0-9B6CB9B7E850" : {
+"name" : "Cell \/ * \/ Icon Label"
+},
+"690F76BA-7786-4FEF-B137-44575DFEF553" : {
+"name" : "nav \/ Edit"
+},
+"1B08EF87-8214-4509-AE99-D0E8501E3679" : {
+"name" : "Cell \/ * \/ Detail"
+},
+"718D91F1-5BB9-4AA5-9BB5-6A3C92E794AC" : {
+"name" : "* \/ Shape \/ Verry Rounded 8pt"
+},
+"E8E5E7A6-33A6-457D-96B9-5693B8C96CAC" : {
+"name" : "Card \/ Basic"
+},
+"FC78D4CE-F69A-4625-B1A8-BD53A8BC331E" : {
+"name" : "* \/ Shape \/ Hard"
+},
+"FEB3C65F-4555-441A-B888-181E5216747E" : {
+"name" : "Cell \/ * \/ Icon + Label + Subtitle"
+},
+"C9170B64-A1ED-49E6-87CA-D52215E89199" : {
+"name" : "Cell \/ * \/ Detail + Icon"
+},
+"CDB41164-9ACB-4C3E-93B8-A9B7BE88DCD6" : {
+"name" : "nav \/ Share"
+},
+"841E6144-71E8-427C-B949-98C4517074AA" : {
+"name" : "* \/ Shape \/ Rounded 4pt"
+},
+"0CE43EBC-AC99-4B87-A77F-A3FBC41C9131" : {
+"name" : "nav \/ Dropdown"
+},
+"E14B3136-A004-417C-9ABC-3B869734C809" : {
+"name" : "Cell \/ * \/ Divider \/ Double Indendet"
+}
+}
+},
+"B5E6728F-71B5-4CC3-8976-916FCAFA46DC" : {
+"name" : "Demo",
+"artboards" : {
+"C1C07320-7CB3-4CEC-BE42-2A15FC31AF30" : {
+"name" : "Artboard"
+},
+"B0279526-2B0A-4EEA-BA56-0CBC648BE454" : {
+"name" : "iPhone 8 Copy 2"
+},
+"06345EFA-F26B-4FD9-A552-1FA20EB444B6" : {
+"name" : "iPhone 8"
+},
+"29B03C48-9602-4D29-8017-C1805A448BDD" : {
+"name" : "Button real"
+},
+"ED3F4382-CC49-4926-8EE5-FF685B747C26" : {
+"name" : "Buttons"
+}
+}
+},
+"9BEB8DCF-C11D-497A-849C-628114457950" : {
+"name" : "FastUI",
+"artboards" : {
+"FF83BA39-012C-41F0-981E-56D58120B65E" : {
+"name" : "Typography Alignments and Variations"
+},
+"305F1B7A-E3ED-4FFE-A863-26DD2B720F97" : {
+"name" : "Artboard"
+},
+"EE0A76AE-08CB-40AB-93C8-A419C9165CEF" : {
+"name" : "Layer Styles"
+},
+"60780F0C-508D-4C60-80BE-FDAF2C645478" : {
+"name" : "Components"
+},
+"F3506B0C-79DE-492A-BCD8-051B1B7266FB" : {
+"name" : "Typegraphy Base "
+}
+}
+},
+"E1A7E6C7-B602-4235-BA62-1A1D659AFD89" : {
+"name" : "Cover",
+"artboards" : {
+"5A734312-EB7F-486C-846F-6B3D1827BCAD" : {
+"name" : "Artboard"
+}
+}
+}
+}
+}
